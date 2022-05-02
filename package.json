@@ -1,7 +1,7 @@
 {
-  "name": "com.jay-test-company-name.jay-package-test-NewB",
+  "name": "com.jay-test-company-name.jay-package-test-newb",
   "version": "1.2.3",
-  "displayName": "Jay Custom Package",
+  "displayName": "Jay Custom Package NewB",
   "description": "This is an example package",
   "unity": "2020.3",
   "unityRelease": "0b5",
