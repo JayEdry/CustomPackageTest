@@ -1,6 +1,6 @@
 {
   "name": "com.jay-test-company-name.jay-package-test",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "displayName": "Jay Custom Package",
   "description": "This is an example package",
   "unity": "2020.3",
